@@ -50,8 +50,8 @@ void main() {
 			}
 		}
 	}
-	if(isempty()){
-		printf("Balanced parenthsis");
+	if(isempty()==True){
+		printf("Balanced parenthesis");
 	}
 	else{
 		printf("Not balanced parenthesis");
