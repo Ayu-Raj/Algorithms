@@ -9,7 +9,7 @@ while(ip != 0):
         if(temp > 0):
             print(l)
             l.append(roman[i])
-            ip = ip-i
+            ip-=i
             break
 print(l)
 
