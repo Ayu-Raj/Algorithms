@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<string.h>
 void main() {
 	int n,c,k,space=1;
 	n=10;
