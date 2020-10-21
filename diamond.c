@@ -18,7 +18,7 @@ void main() {
 		printf(" ");
 		space++;
 		for(c=1;c<=2*(n-k)-1; c++)
-		printf("*");
-		printf("\n");
+		printf("*\n");
+		
 	}
 }
