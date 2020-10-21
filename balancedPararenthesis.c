@@ -34,7 +34,7 @@ void main() {
 	
 		else{
 			if(isempty()){
-				printf("Not a balanced parenthesis from emty %d");
+				printf("Not a balanced parenthesis from empty %d");
 				break;
 			}
 			else{
