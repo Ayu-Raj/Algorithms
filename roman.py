@@ -13,6 +13,9 @@
 #             break
 # print(l)
 
+# Time Complexity : O(N)
+# Time Complexity : O(1)
+
 n = int(input())
 
 unit = {
