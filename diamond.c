@@ -1,3 +1,4 @@
+// Time complexity : O(N)
 #include <stdio.h>
 #include<string.h>
 void main() {
