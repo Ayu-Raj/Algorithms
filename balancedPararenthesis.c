@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <string.h>
+#include <bits/stdc++.h>
+
 char stack[10];
 int top = -1;
 int isempty() {
@@ -57,5 +57,6 @@ void main() {
 		printf("Not balanced parenthesis");
 	}
 }
-
+// Time Complexity : O(N)
+// Space Complexity : O(N) N-size of stack
 
