@@ -1,3 +1,4 @@
+#Space Complexity : O(1)
 #include <stdio.h>
 void main() {
 	int i,j,mid,k;
